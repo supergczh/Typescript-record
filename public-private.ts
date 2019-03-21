@@ -1,8 +1,8 @@
 // 模板
-class Person {
+class Person{
   // 定义了两个数据内容
-  private firstName: string;
-  private lastName: string;
+  privated firstName: string;
+  privated lastName: string;
 
   public greet() {
       console.log('hi');
